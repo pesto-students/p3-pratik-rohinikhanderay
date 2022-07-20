@@ -30,7 +30,7 @@ function sort012(a,arr_size)
     }
 }
   
-/* Utility function to print array arr[] */
+/* function to print array arr[] */
 function printArray(arr,arr_size)
 {
     let i;

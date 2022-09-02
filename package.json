@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "react-copy-to-clipboard": "^5.1.0"
+  }
+}

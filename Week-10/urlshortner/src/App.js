@@ -5,7 +5,7 @@ import InputShortener from './input';
 import LinkResult from './linkresult';
 function App() {
   const [inputValue, setInputValue] = useState("");
-
+document.title='URL shortner'
   return (
     <div className="container">
       <InputShortener setInputValue={setInputValue} />
